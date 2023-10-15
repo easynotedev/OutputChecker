@@ -1,0 +1,11 @@
+apples: 10
+peaches is not in stock
+oranges: 7
+pineapples is not in stock
+No bananas in stock
+asdas
+asda
+peaches is not in stock
+dasd
+pineapples is not in stock
+banana: 5
